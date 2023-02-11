@@ -7,9 +7,9 @@ In this Python project we aim to find correlations between various movie feature
 
 ![correlation_matrix.jpg](images/correlation_matrix.jpg)
 
-![reg_gross_budget.jpg](images/reg_grossbudget.jpg)
+![reg_gross_budget.jpg](images/reg_gross_budget.jpg)
 
-![gross_rating.jpg](images/grossrating.jpg)
+![gross_rating.jpg](images/gross_rating.jpg)
 
 Data Source 🧭
 
